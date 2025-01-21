@@ -51,16 +51,15 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ## My Repositories:
 
-### 📂 Fastapi Portfolio
+### 💼 Fastapi Portfolio
 - [Проект 1](https://github.com/ваш_профиль/проект1)
 - [Проект 2](https://github.com/ваш_профиль/проект2)
 
-### 📚 Обучение
-- [Fastapi. Simple auth app ](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
+### 📚 Education
 - [Курс 2](https://github.com/ваш_профиль/курс2)
 
-### 💼 Работа
-- [Работа 1](https://github.com/ваш_профиль/работа1)
+### 📂 Simple apps
+- [Fastapi. Simple auth app ](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
 - [Работа 2](https://github.com/ваш_профиль/работа2)
 
 
