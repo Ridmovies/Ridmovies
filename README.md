@@ -51,12 +51,12 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ## My Repositories:
 
-### 📂 Портфолио
+### 📂 Fastapi Portfolio
 - [Проект 1](https://github.com/ваш_профиль/проект1)
 - [Проект 2](https://github.com/ваш_профиль/проект2)
 
 ### 📚 Обучение
-- [Курс 1](https://github.com/ваш_профиль/курс1)
+- [Fastapi. Simple auth app ](https://github.com/Ridmovies/fastapi-auth-app)
 - [Курс 2](https://github.com/ваш_профиль/курс2)
 
 ### 💼 Работа
