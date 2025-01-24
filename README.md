@@ -56,7 +56,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [Проект 2](https://github.com/ваш_профиль/проект2)
 
 ### 📚 Education
-- [Курс 2](https://github.com/ваш_профиль/курс2)
+- [FastAPI Beyond CRUD](https://github.com/Ridmovies/fastapi-beyond-crud) This is the source code for the FastAPI Beyond CRUD course. The course focuses on FastAPI development concepts that go beyond the basic CRUD operations.
 
 ### 📂 Simple apps
 - [Fastapi. Simple auth app ](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
