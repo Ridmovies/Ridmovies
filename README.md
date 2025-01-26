@@ -52,7 +52,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 ## My Repositories:
 
 ### 💼 Fastapi Portfolio
-- [astapi-social-tweeter](https://github.com/Ridmovies/fastapi-social-tweeter) - FastApi Async Backend of a microblogging service with async Postgress database.
+- [Fastapi-social-tweeter](https://github.com/Ridmovies/fastapi-social-tweeter) - FastApi Async Backend of a microblogging service with async Postgress database.
 - [Проект 2](https://github.com/ваш_профиль/проект2)
 
 ### 📚 Education
