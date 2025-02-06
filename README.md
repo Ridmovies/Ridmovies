@@ -52,8 +52,9 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 ## My Repositories:
 
 ### 💼 Fastapi Portfolio
+- [fastapi-app-skeleton](https://github.com/Ridmovies/fastapi-app-skeleton) - Simple fastapi app as carcass for future applications
 - [Fastapi-social-tweeter](https://github.com/Ridmovies/fastapi-social-tweeter) - FastApi Async Backend of a microblogging service with async Postgress database.
-- [Проект 2](https://github.com/ваш_профиль/проект2)
+- [django-internet-shop](https://github.com/Ridmovies/python_django_diploma) - Этот проект представляет собой бэкенд для интернет-магазина, разработанный с использованием Django, фреймворка Django REST и Redis. Он включает в себя систему авторизации, регистрации, управления учетными данными пользователей, а также функционал каталога товаров, системы отзывов, корзины покупок и оформления заказа.
 
 ### 📚 Education
 - [FastAPI Beyond CRUD](https://github.com/Ridmovies/fastapi-beyond-crud) This is the source code for the FastAPI Beyond CRUD course. The course focuses on FastAPI development concepts that go beyond the basic CRUD operations.
@@ -61,7 +62,6 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ### 📂 Simple apps
 - [Fastapi. Simple auth app ](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
-- [fastapi-app-skeleton](https://github.com/Ridmovies/fastapi-app-skeleton) - Simple fastapi app as carcass for future applications
 
 
 
