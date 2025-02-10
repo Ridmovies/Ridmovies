@@ -27,12 +27,12 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-* FastAPI
+* FastAPI (asyncio)
 * SQL / PostgreSQL
 * SQLAlchemy / Alembic
 * Celery
 * Redis
-* Django
+* Django / DRF
 
 </td>
 
@@ -46,8 +46,18 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="Linux" height="50" /></a> 
+  
+</div>
 
-</div></td>
+* Python
+* Docker
+* GIT
+* LINUX
+* REST API
+
+
+</td>
 
 <td valign="top" width="33%">
   
