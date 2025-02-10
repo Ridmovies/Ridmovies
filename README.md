@@ -118,7 +118,8 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [fastapi-base-app](https://github.com/Ridmovies/fastapi-base-app) This is a basic application project on Fastapi. Origin course: https://github.com/mahenzon/FastAPI-base-app
 
 ### 📂 Simple apps
-- [Fastapi. Simple auth app ](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
+- [fastapi-auth-app](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
+- [fastapi-async-testing](https://github.com/Ridmovies/fastapi-async-testing) - Symple example of using the "pytest" library with an asynchronous database
 
 
 
