@@ -120,6 +120,8 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ridmovies&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+![Вклад за последний год](https://github-readme-stats.vercel.app/api?username=Ridmovies&show_icons=true&theme=dark&hide_border=true)
+
 <br/>  
 
 
