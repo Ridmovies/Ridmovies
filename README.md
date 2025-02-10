@@ -108,10 +108,10 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ### 💼 Fastapi Portfolio
 
-- [fastapi-booking-app](https://github.com/Ridmovies/fastapi-course) - Cервис бронирования отелей. Пользователи могут забронировать необходимый тип номера в отеле на определённую дату.
+- [fastapi-booking-app](https://github.com/Ridmovies/fastapi-course) - Hotel booking service. Users can book the desired type of hotel room for a specific date.
 - [fastapi-app-skeleton](https://github.com/Ridmovies/fastapi-app-skeleton) - Simple fastapi app as carcass for future applications
 - [Fastapi-social-tweeter](https://github.com/Ridmovies/fastapi-social-tweeter) - FastApi Async Backend of a microblogging service with async Postgress database.
-- [django-internet-shop](https://github.com/Ridmovies/python_django_diploma) - Этот проект представляет собой бэкенд для интернет-магазина, разработанный с использованием Django, фреймворка Django REST и Redis. Он включает в себя систему авторизации, регистрации, управления учетными данными пользователей, а также функционал каталога товаров, системы отзывов, корзины покупок и оформления заказа.
+- [django-internet-shop](https://github.com/Ridmovies/python_django_diploma) - This project is a backend for an online store, developed using Django, the Django REST framework, and Redis. It includes a system of authorization, registration, user credentials management, as well as the functionality of a product catalog, a review system, a shopping cart, and checkout.
 
 ### 📚 Education
 - [FastAPI Beyond CRUD](https://github.com/Ridmovies/fastapi-beyond-crud) This is the source code for the FastAPI Beyond CRUD course. The course focuses on FastAPI development concepts that go beyond the basic CRUD operations.
