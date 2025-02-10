@@ -106,9 +106,9 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ## Contacts:
 <div align="center">
-GitHub: github.com/Ridmovies
-Email: unkownrid@gmail.com
-Telegram: @ridmovies
+* GitHub: [github.com/Ridmovies](https://github.com/Ridmovies)
+* Email: unkownrid@gmail.com
+* Telegram: [@ridmovies](https://t.me/ridmovies)
 
 </div>  
   
