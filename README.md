@@ -20,10 +20,10 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 <div align="center">  
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" height="50" /></a>  
-<a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" alt="SQLAlchemy" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="Redis" height="50" /></a>  
-<a href="http://www.celeryproject.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="Celery" height="50" /></a>    
+<a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" alt="SQLAlchemy" height="50" /></a>  
+<a href="http://www.celeryproject.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="Celery" height="50" /></a>  
+<a href="https://redis.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="Redis" height="50" /></a>    
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
@@ -67,8 +67,16 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src=" https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div></td>
+</div>
+
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+
+</td>
 
 
 </tr></table>  
