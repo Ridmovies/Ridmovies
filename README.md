@@ -27,12 +27,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-* FastAPI (asyncio)
-* SQL / PostgreSQL
-* SQLAlchemy / Alembic
-* Celery
-* Redis
-* Django / DRF
+
 
 </td>
 
@@ -52,12 +47,6 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 <br/> 
 
-* Python
-* Docker
-* GIT
-* LINUX
-* REST API
-
 
 </td>
 
@@ -74,10 +63,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 </div>
 <br/> 
 
-* HTML
-* CSS
-* Bootstrap
-* Javascript
+
 
 </td>
 
@@ -85,7 +71,29 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 </tr>
 
 <tr>
-  <td> 111 </td>
+  <td> 
+    * FastAPI (asyncio)
+    * SQL / PostgreSQL
+    * SQLAlchemy / Alembic
+    * Celery
+    * Redis
+    * Django / DRF
+  </td>
+
+  <td> 
+    * Python
+    * Docker
+    * GIT
+    * LINUX
+    * REST API
+  </td>
+
+  <td> 
+    * HTML
+    * CSS
+    * Bootstrap
+    * Javascript
+  </td>
 </tr>
 
 
