@@ -72,6 +72,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 <tr>
   <td> 
+    
     * FastAPI (asyncio)
     * SQL / PostgreSQL
     * SQLAlchemy / Alembic
@@ -80,7 +81,8 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
     * Django / DRF
   </td>
 
-  <td> 
+  <td>
+    
     * Python
     * Docker
     * GIT
@@ -89,6 +91,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
   </td>
 
   <td> 
+    
     * HTML
     * CSS
     * Bootstrap
