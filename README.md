@@ -120,25 +120,8 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 ## Github Stats  
  
 ![Вклад за последний год](https://github-readme-stats.vercel.app/api?username=Ridmovies&show_icons=true&theme=dark&hide_border=true)
+![](https://github-contribution-graph-css-uczf.vercel.app/Ridmovies)
 
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
