@@ -49,7 +49,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="REST API" height="50" /></a> 
   
 </div>
-
+<br/> 
 * Python
 * Docker
 * GIT
@@ -70,7 +70,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
-
+<br/> 
 * HTML
 * CSS
 * Bootstrap
