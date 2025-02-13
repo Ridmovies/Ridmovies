@@ -125,6 +125,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [Добрый, добрый Python](https://stepik.org/course/100707) - обучающий курс от Сергея Балакирева [[Сертификат]](https://stepik.org/cert/1587457) 
 - [Добрый, добрый Python ООП](https://stepik.org/course/116336) - обучающий курс от Сергея Балакирева [[Сертификат]](https://stepik.org/cert/1670658) [[Repo]](https://github.com/Ridmovies/Python_OOP)
 - [Инди-курс по HTML и CSS](https://stepik.org/course/120494) - Курс предлагает глубокое и практическое изучение языков веб-разработки, которые являются основой для создания современных веб-сайтов и приложений. [[Сертификат]](https://stepik.org/cert/2184677)
+- [Docker для начинающих + практический опыт](https://stepik.org/course/123300) - Этот курс знакомит с Docker любого абсолютного новичка с помощью простых и понятных лекций. [[Сертификат]](https://stepik.org/cert/2220470) 
 
 
 
