@@ -121,9 +121,10 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [fastapi-auth-app](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
 - [fastapi-async-testing](https://github.com/Ridmovies/fastapi-async-testing) - Symple example of using the "pytest" library with an asynchronous database
 
-### 📃 Courses completed
-- [Добрый, добрый Python](https://stepik.org/course/100707) - обучающий курс от Сергея Балакирева [Сертификат](https://stepik.org/cert/1587457) 
+### 📃 Courses completed and Education
+- [Добрый, добрый Python](https://stepik.org/course/100707) - обучающий курс от Сергея Балакирева [[Сертификат]](https://stepik.org/cert/1587457) 
 - [Добрый, добрый Python ООП](https://stepik.org/course/116336) - обучающий курс от Сергея Балакирева [[Сертификат]](https://stepik.org/cert/1670658) [[Repo]](https://github.com/Ridmovies/Python_OOP)
+- [Инди-курс по HTML и CSS](https://stepik.org/course/120494) - Курс предлагает глубокое и практическое изучение языков веб-разработки, которые являются основой для создания современных веб-сайтов и приложений. [[Сертификат]](https://stepik.org/cert/2184677)
 
 
 
