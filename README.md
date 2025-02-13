@@ -106,7 +106,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ## My Repositories:
 
-### 💼 Fastapi Portfolio
+### 💼 Portfolio
 
 - [fastapi-booking-app](https://github.com/Ridmovies/fastapi-course) - Hotel booking service. Users can book the desired type of hotel room for a specific date.
 - [fastapi-app-skeleton](https://github.com/Ridmovies/fastapi-app-skeleton) - Simple fastapi app as carcass for future applications
@@ -122,7 +122,8 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [fastapi-async-testing](https://github.com/Ridmovies/fastapi-async-testing) - Symple example of using the "pytest" library with an asynchronous database
 
 ### 📃 Courses completed
-- [Добрый, добрый Python ООП](https://stepik.org/course/116336) - обучающий курс от Сергея Балакирева [Сертификат](https://stepik.org/cert/1670658)
+- [Добрый, добрый Python](https://stepik.org/course/100707) - обучающий курс от Сергея Балакирева [Сертификат](https://stepik.org/cert/1587457) 
+- [Добрый, добрый Python ООП](https://stepik.org/course/116336) - обучающий курс от Сергея Балакирева [[Сертификат]](https://stepik.org/cert/1670658) [[Repo]](https://github.com/Ridmovies/Python_OOP)
 
 
 
