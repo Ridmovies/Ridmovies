@@ -25,6 +25,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <a href="http://www.celeryproject.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="Celery" height="50" /></a>  
 <a href="https://redis.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="Redis" height="50" /></a>    
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>
 
 
@@ -79,6 +80,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
     * Celery
     * Redis
     * Django / DRF
+    * Flask
   </td>
 
   <td>
