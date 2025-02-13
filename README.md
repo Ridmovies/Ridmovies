@@ -122,7 +122,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [fastapi-async-testing](https://github.com/Ridmovies/fastapi-async-testing) - Symple example of using the "pytest" library with an asynchronous database
 
 ### 📃 Courses completed
-- [Добрый, добрый Python ООП](https://stepik.org/course/116336)
+- [Добрый, добрый Python ООП](https://stepik.org/course/116336) - обучающий курс от Сергея Балакирева [Сертификат](https://stepik.org/cert/1670658)
 
 
 
