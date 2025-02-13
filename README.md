@@ -121,6 +121,9 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [fastapi-auth-app](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
 - [fastapi-async-testing](https://github.com/Ridmovies/fastapi-async-testing) - Symple example of using the "pytest" library with an asynchronous database
 
+### 📃 Courses completed
+- [Добрый, добрый Python ООП](https://stepik.org/course/116336)
+
 
 
 ## Contacts:
