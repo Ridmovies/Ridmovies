@@ -110,7 +110,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ### 💼 Portfolio
 
-- [fastapi-booking-app](https://github.com/Ridmovies/fastapi-course) - Hotel booking service. Users can book the desired type of hotel room for a specific date.
+- [fastapi-booking-app](https://github.com/Ridmovies/fastapi-hotel-booking) - Hotel booking service. Users can book the desired type of hotel room for a specific date.
 - [fastapi-app-skeleton](https://github.com/Ridmovies/fastapi-app-skeleton) - Simple fastapi app as carcass for future applications
 - [Fastapi-social-tweeter](https://github.com/Ridmovies/fastapi-social-tweeter) - FastApi Async Backend of a microblogging service with async Postgress database.
 - [django-internet-shop](https://github.com/Ridmovies/python_django_diploma) - This project is a backend for an online store, developed using Django, the Django REST framework, and Redis. It includes a system of authorization, registration, user credentials management, as well as the functionality of a product catalog, a review system, a shopping cart, and checkout.
