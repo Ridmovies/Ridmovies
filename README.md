@@ -121,6 +121,8 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 - [flask-flasker](https://github.com/Ridmovies/flask-flasker) - Simple Flask Project by codemy.com lessions
 - [fastapi-auth-app](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
 - [fastapi-async-testing](https://github.com/Ridmovies/fastapi-async-testing) - Symple example of using the "pytest" library with an asynchronous database
+- [gitlab-ci-cd-example](https://github.com/Ridmovies/gitlab-ci-cd-example) - В этом руководстве описывается процесс настройки и регистрации GitLab Runner на виртуальном сервере (VDS) с использованием Docker. GitLab Runner — это инструмент, который позволяет выполнять задачи CI/CD (непрерывная интеграция и непрерывная доставка) в GitLab.
+- [github-actions-example](https://github.com/Ridmovies/github-actions-example) - Этот проект использует GitHub Actions для автоматизации процессов тестирования, сборки и развертывания FastAPI приложения. Ниже описано, как работает CI/CD pipeline.
 
 
 ### 📓 Skillbox profession-python
