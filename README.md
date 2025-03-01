@@ -43,7 +43,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="REST API" height="50" /></a> 
-<a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6dmdhWvNldm74O7-3QPGKpdhsXKNMfW6EQ&s" alt="CI/CD" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6dmdhWvNldm74O7-3QPGKpdhsXKNMfW6EQ&s" alt="CI/CD" height="50" /></a> 
 
   
 </div>
