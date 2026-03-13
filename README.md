@@ -120,7 +120,6 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 
 ### 📚 Education and Simple apps
 - [FastAPI Beyond CRUD](https://github.com/Ridmovies/fastapi-beyond-crud) This is the source code for the FastAPI Beyond CRUD course. The course focuses on FastAPI development concepts that go beyond the basic CRUD operations.
-- [fastapi-base-app](https://github.com/Ridmovies/fastapi-base-app) This is a basic application project on Fastapi.
 - [flask-flasker](https://github.com/Ridmovies/flask-flasker) - Simple Flask Project by codemy.com lessions
 - [fastapi-auth-app](https://github.com/Ridmovies/fastapi-auth-app) - OAuth2 with Password (and hashing), Bearer with JWT tokens. Sqlite Database
 - [fastapi-async-testing](https://github.com/Ridmovies/fastapi-async-testing) - Symple example of using the "pytest" library with an asynchronous database
