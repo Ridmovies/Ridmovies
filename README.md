@@ -112,7 +112,7 @@ I'm Eugeniy, begginer backend developer from Sankt-Petersburg, Russia.
 ## My Repositories:
 
 ### 💼 Portfolio
-
+- [fastapi-vocabulary-builder](https://github.com/Ridmovies/vocabulary-builder) - Backend-приложение для изучения английского языка. Предоставляет API для работы с грамматикой, словарями, переводом слов и игровыми механиками для запоминания лексики.
 - [fastapi-booking-app](https://github.com/Ridmovies/fastapi-hotel-booking) - Hotel booking service. Users can book the desired type of hotel room for a specific date.
 - [fastapi-app-skeleton](https://github.com/Ridmovies/fastapi-app-skeleton) - Simple fastapi app as carcass for future applications
 - [Fastapi-social-tweeter](https://github.com/Ridmovies/fastapi-social-tweeter) - FastApi Async Backend of a microblogging service with async Postgress database.
